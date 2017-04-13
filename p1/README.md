@@ -19,3 +19,17 @@ Input files for [Part 1](http://iondune.github.io/csc473/project/part1/) of the 
 | test13    | firsthit command (spheres.pov), black sphere                                       |
 | test14    | firsthit command (spheres.pov), grey sphere                                        |
 | test15    | firsthit command (spheres.pov), blue sphere                                        |
+
+## Output Images
+
+### simple.pov
+
+![simple.pov](simple.png)
+
+### spheres.pov
+
+![spheres.pov](spheres.png)
+
+### planes.pov
+
+![planes.pov](planes.png)
