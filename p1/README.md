@@ -1,6 +1,6 @@
 # Program 1 Input Files
 
-Input files for [Part 1](http://topaz.iondune.net:4000/csc473/project/part1/) of the [ray tracer project](http://topaz.iondune.net:4000/csc473/project/).
+Input files for [Part 1](http://iondune.github.io/csc473/project/part1/) of the [ray tracer project](http://iondune.github.io/csc473/project/).
 
 | File      | Notes                                              |
 |-----------|----------------------------------------------------|
