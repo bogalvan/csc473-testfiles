@@ -19,6 +19,10 @@ Input files for [Part 2](http://iondune.github.io/csc473/project/part2/) of the 
 
 ![planes.pov](planes.png)
 
+### specular.pov
+
+![specular.pov](specular.png)
+
 ### simp_cam0.pov
 
 ![simp_cam0.pov](simp_cam0.png)
