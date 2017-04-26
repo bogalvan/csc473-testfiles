@@ -4,6 +4,10 @@ Input files for [Part 2](http://iondune.github.io/csc473/project/part2/) of the 
 
 | File      | Notes                                                                              |
 |-----------|------------------------------------------------------------------------------------|
+| test1     | pixelcolor command (simple.pov - purple sphere)                                      |
+| test2     | pixelcolor command (simple.pov - purple sphere)                                      |
+| test3     | pixelcolor command (simple.pov - blue plane)                                         |
+| test4     | pixelcolor command (simple.pov - blue plane)                                         |
 
 ## Output Images
 
