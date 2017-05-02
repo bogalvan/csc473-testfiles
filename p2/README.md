@@ -1,6 +1,6 @@
 # Program 2 Input Files
 
-Input files for [Part 2](http://iondune.github.io/csc473/project/part2/) of the [ray tracer project](http://iondune.github.io/csc473/project/).
+Input files for [Part 2](http://iondune.github.io/csc473/project/part2) of the [ray tracer project](http://iondune.github.io/csc473/project/).
 
 | File      | Notes                                                                              |
 |-----------|------------------------------------------------------------------------------------|
