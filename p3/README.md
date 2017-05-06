@@ -4,6 +4,20 @@ Input files for [Part 3](http://iondune.github.io/csc473/project/part3) of the [
 
 | File      | Notes                                                                              |
 |-----------|------------------------------------------------------------------------------------|
+| test1     | pixeltrace command (refract2.pov - pixel A)                                        |
+| test2     | pixeltrace command (refract2.pov - pixel B)                                        |
+| test3     | pixeltrace command (refract2.pov - pixel C)                                        |
+| test4     | pixeltrace command (refract2.pov - pixel D)                                        |
+| test5     | pixeltrace command (refract2.pov - pixel E)                                        |
+| test6     | pixeltrace command (refract2.pov - pixel F)                                        |
+
+### Reference Image
+
+See below image for location of pixels A-F used in above tests.
+Note that this image was rendering with different material properties, ignore the purple color of the sphere.
+However, the geometry is the same.
+
+![refract2_reference](refract2_reference.png)
 
 ## Output Images
 
