@@ -52,3 +52,7 @@ However, the geometry is the same.
 ### recurse_simp2.pov
 
 ![recurse_simp2.pov](recurse_simp2.png)
+
+### beers.pov
+
+![beers.pov](beers.png)
