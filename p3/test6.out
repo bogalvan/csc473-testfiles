@@ -1,11 +1,11 @@
-Pixel: [220, 240] Color: (83, 14, 84)
+Pixel: [220, 240] Color: (63, 89, 65)
 o - Iteration type: Primary
 |   Ray: {0 0 14} -> {-0.203 0.00102 -0.9792}
 |   Hit Object ID (1 - Sphere) at T = 12.75, Intersection = {-2.587 0.013 1.518}
 |   Normal {-0.8624 0.004334 0.5061}
 |   Transformed Ray: {0 0 14} -> {-0.203 0.00102 -0.9792}
-|   Ambient: 0.1, 0, 0.1
-|   Diffuse: 0.1179, 0, 0.1179
+|   Ambient: 0.05, 0.05, 0.05
+|   Diffuse: 0.02948, 0.02948, 0.02948
 |   Specular: 0, 0, 0
 |
 |\
@@ -14,7 +14,7 @@ o - Iteration type: Primary
 | |   Hit Object ID (1 - Sphere) at T = 4.211, Intersection = {-1.556 0.007817 -2.565}
 | |   Normal {-0.5186 0.002606 -0.855}
 | |   Transformed Ray: {-2.587 0.013 1.517} -> {0.2449 -0.001231 -0.9695}
-| |   Ambient: 0.1, 0, 0.1
+| |   Ambient: 0.05, 0.05, 0.05
 | |   Diffuse: 0, 0, 0
 | |   Specular: 0, 0, 0
 | |   Extra Info: into-object 
