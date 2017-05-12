@@ -4,6 +4,7 @@ o - Iteration type: Primary
 |   Hit Object ID (1 - Sphere) at T = 11.9, Intersection = {-0.1101 1.969 2.261}
 |   Normal {-0.03668 0.6562 0.7537}
 |   Transformed Ray: {0 0 14} -> {-0.009245 0.1654 -0.9862}
+|   ShadowRay {0 0 0} -> {0 0 1}
 |   Ambient: 0.05, 0.05, 0.05
 |   Diffuse: 0.1245, 0.1245, 0.1245
 |   Specular: 0, 0, 0
@@ -14,6 +15,7 @@ o - Iteration type: Primary
   |   Hit Object ID (1 - Sphere) at T = 4.881, Intersection = {-0.08367 1.497 -2.599}
   |   Normal {-0.02789 0.4989 -0.8662}
   |   Transformed Ray: {-0.11 1.969 2.26} -> {0.005403 -0.09665 -0.9953}
+  |   ShadowRay {0 0 0} -> {0 0 1}
   |   Ambient: 0.05, 0.05, 0.05
   |   Diffuse: 0, 0, 0
   |   Specular: 0, 0, 0
@@ -25,6 +27,7 @@ o - Iteration type: Primary
     |   Hit Object ID (2 - Sphere) at T = 0.4918, Intersection = {-0.07398 1.323 -3.06}
     |   Normal {-0.9017 0.1406 0.4088}
     |   Transformed Ray: {-0.08365 1.496 -2.599} -> {0.01968 -0.352 -0.9358}
+    |   ShadowRay {-0.1101 1.969 2.261} -> {-0.5852 0.5743 0.5726}
     |   Ambient: 0.152, 0.276, 0.16
     |   Diffuse: 0.3825, 0.6945, 0.4026
     |   Specular: 0, 0, 0
