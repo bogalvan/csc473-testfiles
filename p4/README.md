@@ -32,6 +32,12 @@ Input files for [Part 4](http://iondune.github.io/csc473/project/part4) of the [
 
 ![fresnel3.pov](fresnel3.png)
 
+### shiny.pov
+
+**Arguments:** `-ss=3`
+
+![shiny.pov](shiny.png)
+
 ### simple.pov
 
 **Arguments:** `-ss=3`
