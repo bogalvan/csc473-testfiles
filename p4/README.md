@@ -1,6 +1,6 @@
 # Program 4 Input Files
 
-Input files for [Part 3](http://iondune.github.io/csc473/project/part4) of the [ray tracer project](http://iondune.github.io/csc473/project/).
+Input files for [Part 4](http://iondune.github.io/csc473/project/part4) of the [ray tracer project](http://iondune.github.io/csc473/project/).
 
 | File      | Notes                                                                              |
 |-----------|------------------------------------------------------------------------------------|
@@ -10,7 +10,7 @@ Input files for [Part 3](http://iondune.github.io/csc473/project/part4) of the [
 
 ## Output Images
 
-### simple_tri.pov
+### valentine2.pov
 
 ![valentine2.pov](valentine2.png)
 
