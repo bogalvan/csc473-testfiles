@@ -1,2 +1,5 @@
 valentine2 render
+fresnel1 render -fresnel
+fresnel2 render -fresnel
+fresnel3 render -fresnel
 simple render -ss=3

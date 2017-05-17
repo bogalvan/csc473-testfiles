@@ -14,6 +14,24 @@ Input files for [Part 4](http://iondune.github.io/csc473/project/part4) of the [
 
 ![valentine2.pov](valentine2.png)
 
+### fresnel1.pov
+
+**Arguments:** `-fresnel`
+
+![fresnel1.pov](fresnel1.png)
+
+### fresnel2.pov
+
+**Arguments:** `-fresnel`
+
+![fresnel2.pov](fresnel2.png)
+
+### fresnel3.pov
+
+**Arguments:** `-fresnel`
+
+![fresnel3.pov](fresnel3.png)
+
 ### simple.pov
 
 **Arguments:** `-ss=3`
