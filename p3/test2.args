@@ -1,1 +1,1 @@
-pixeltrace ../resources/refract2.pov 640 480 315 185
+printrays ../resources/refract2.pov 640 480 315 185

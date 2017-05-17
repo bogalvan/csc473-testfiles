@@ -1,1 +1,1 @@
-pixeltrace ../resources/simple_reflect2.pov 640 480 364 192
+printrays ../resources/simple_reflect2.pov 640 480 364 192
