@@ -34,7 +34,7 @@ Input files for [Part 4](http://iondune.github.io/csc473/project/part4) of the [
 
 ### shiny.pov
 
-**Arguments:** `-ss=3`
+**Arguments:** `-ss=2`
 
 ![shiny.pov](shiny.png)
 
