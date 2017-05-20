@@ -1,0 +1,46 @@
+Pixel: [100, 230] Color: (38, 70, 119)
+----
+  Iteration type: Primary
+             Ray: {0.0000 0.0000 20.0000} -> {-0.4158 -0.0180 -0.9093}
+      Hit Object: (ID #1 - Sphere)
+    Intersection: {-7.8377 -0.3392 2.8606} at T = 18.8495
+          Normal: {-0.2792 -0.1131 0.9535}
+     Final Color: {0.1487 0.2763 0.4677}
+         Ambient: {0.0010 0.0010 0.0010}
+         Diffuse: {0.0192 0.0192 0.0192}
+        Specular: {0.0000 0.0000 0.0000}
+      Reflection: {0.0000 0.0000 0.0000}
+      Refraction: {0.1285 0.2561 0.4475}
+   Contributions: 0.0500 Local, 0.0000 Reflection, 0.9500 Transmission
+----
+  Iteration type: Refraction
+             Ray: {-7.8381 -0.3392 2.8597} -> {-0.4004 -0.0147 -0.9162}
+      Hit Object: (ID #1 - Sphere)
+    Intersection: {-9.6639 -0.4063 -1.3184} at T = 4.5602
+          Normal: {-0.8880 -0.1354 -0.4395}
+     Final Color: {0.1353 0.2696 0.4710}
+         Ambient: {0.0010 0.0010 0.0010}
+         Diffuse: {0.0000 0.0000 0.0000}
+        Specular: {0.0000 0.0000 0.0000}
+      Reflection: {0.0000 0.0000 0.0000}
+      Refraction: {0.1343 0.2686 0.4700}
+   Contributions: 0.0500 Local, 0.0000 Reflection, 0.9500 Transmission
+      Extra Info: into-object
+----
+  Iteration type: Refraction
+             Ray: {-9.6643 -0.4063 -1.3194} -> {-0.3849 -0.0114 -0.9229}
+      Hit Object: (ID #7 - Plane)
+    Intersection: {-130.8844 -4.0000 -292.0012} at T = 314.9653
+          Normal: {0.0000 1.0000 0.0000}
+     Final Color: {0.1414 0.2827 0.4948}
+         Ambient: {0.0800 0.1600 0.2800}
+         Diffuse: {0.0614 0.1227 0.2148}
+        Specular: {0.0000 0.0000 0.0000}
+      Reflection: {0.0000 0.0000 0.0000}
+      Refraction: {0.0000 0.0000 0.0000}
+   Contributions: 1.0000 Local, 0.0000 Reflection, 0.0000 Transmission
+      Extra Info: into-air
+
+
+--------------------------------------------------------------------------------
+
