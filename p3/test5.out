@@ -1,33 +1,45 @@
-Pixel: [315, 320] Color: (126, 185, 130)
+Pixel: [315, 320] Color: (133, 192, 136)
 ----
   Iteration type: Primary
              Ray: {0.0000 0.0000 14.0000} -> {-0.0092 0.1654 -0.9862}
       Hit Object: (ID #1 - Sphere)
     Intersection: {-0.1101 1.9687 2.2610} at T = 11.9035
           Normal: {-0.0367 0.6562 0.7537}
-         Ambient: {0.0500, 0.0500, 0.0500}
-         Diffuse: {0.1245, 0.1245, 0.1245}
-        Specular: {0.0000, 0.0000, 0.0000}
+     Final Color: {0.5196 0.7511 0.5346}
+         Ambient: {0.0500 0.0500 0.0500}
+         Diffuse: {0.1245 0.1245 0.1245}
+        Specular: {0.0000 0.0000 0.0000}
+      Reflection: {0.0000 0.0000 0.0000}
+      Refraction: {0.3452 0.5767 0.3601}
+   Contributions: 0.2500 Local, 0.0000 Reflection, 0.7500 Transmission
 ----
   Iteration type: Refraction
              Ray: {-0.1100 1.9686 2.2600} -> {0.0054 -0.0967 -0.9953}
       Hit Object: (ID #1 - Sphere)
     Intersection: {-0.0837 1.4968 -2.5986} at T = 4.8815
           Normal: {-0.0279 0.4989 -0.8662}
-         Ambient: {0.0500, 0.0500, 0.0500}
-         Diffuse: {0.0000, 0.0000, 0.0000}
-        Specular: {0.0000, 0.0000, 0.0000}
-        Extra Info: into-object
+     Final Color: {0.4602 0.7689 0.4801}
+         Ambient: {0.0500 0.0500 0.0500}
+         Diffuse: {0.0319 0.0319 0.0319}
+        Specular: {0.0000 0.0000 0.0000}
+      Reflection: {0.0000 0.0000 0.0000}
+      Refraction: {0.3783 0.6870 0.3983}
+   Contributions: 0.2500 Local, 0.0000 Reflection, 0.7500 Transmission
+      Extra Info: into-object
 ----
   Iteration type: Refraction
              Ray: {-0.0837 1.4965 -2.5995} -> {0.0197 -0.3520 -0.9358}
       Hit Object: (ID #2 - Sphere)
     Intersection: {-0.0549 0.9820 -3.9670} at T = 1.4614
           Normal: {-0.8934 -0.0078 0.4491}
-         Ambient: {0.1520, 0.2760, 0.1600}
-         Diffuse: {0.3525, 0.6400, 0.3710}
-        Specular: {0.0000, 0.0000, 0.0000}
-        Extra Info: into-air
+     Final Color: {0.5045 0.9160 0.5310}
+         Ambient: {0.1520 0.2760 0.1600}
+         Diffuse: {0.3525 0.6400 0.3710}
+        Specular: {0.0000 0.0000 0.0000}
+      Reflection: {0.0000 0.0000 0.0000}
+      Refraction: {0.0000 0.0000 0.0000}
+   Contributions: 1.0000 Local, 0.0000 Reflection, 0.0000 Transmission
+      Extra Info: into-air
 
 
 --------------------------------------------------------------------------------
