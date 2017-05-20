@@ -14,9 +14,9 @@ Pixel: [364, 192] Color: (32, 28, 21)
    Contributions: 0.2000 Local, 0.8000 Reflection, 0.0000 Transmission
 ----
   Iteration type: Reflection
-             Ray: {1.2121 -1.2938 0.9257} -> {0.5034 -0.5373 -0.6766}
+             Ray: {1.2126 -1.2944 0.9250} -> {0.5034 -0.5373 -0.6766}
       Hit Object: (ID #3 - Plane)
-    Intersection: {3.7474 -4.0000 -2.4820} at T = 5.0362
+    Intersection: {3.7474 -4.0000 -2.4820} at T = 5.0352
           Normal: {0.0000 1.0000 0.0000}
      Final Color: {0.0580 0.0500 0.0980}
          Ambient: {0.0580 0.0500 0.0980}
