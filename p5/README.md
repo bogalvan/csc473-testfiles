@@ -16,3 +16,9 @@ Input files for [Part 5](http://iondune.github.io/csc473/project/part5) of the [
 **Arguments:** `-sds`
 
 ![bunny.pov](bunny.png)
+
+### gnarly.pov
+
+**Arguments:** `-sds`
+
+![gnarly.pov](gnarly.png)
