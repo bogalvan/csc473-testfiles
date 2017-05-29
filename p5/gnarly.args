@@ -1,0 +1,1 @@
+render ../resources/gnarly.pov 640 480 -sds
