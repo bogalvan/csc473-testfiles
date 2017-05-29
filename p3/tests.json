@@ -1,0 +1,18 @@
+[
+	{ "name": "test1", "type": "text", "required": true },
+	{ "name": "test2", "type": "text", "required": true },
+	{ "name": "test3", "type": "text", "required": true },
+	{ "name": "test4", "type": "text", "required": true },
+	{ "name": "test5", "type": "text", "required": true },
+	{ "name": "test6", "type": "text", "required": true },
+
+	{ "name": "simple_tri", "type": "image", "required": true },
+	{ "name": "simple_reflect1", "type": "image", "required": true },
+	{ "name": "simple_reflect2", "type": "image", "required": true },
+	{ "name": "simple_reflect3", "type": "image", "required": true },
+	{ "name": "simple_refract", "type": "image", "required": true },
+	{ "name": "refract2", "type": "image", "required": true },
+	{ "name": "refract_refl", "type": "image", "required": true },
+	{ "name": "recurse_simp2", "type": "image", "required": true },
+	{ "name": "beers", "type": "image", "required": true }
+]

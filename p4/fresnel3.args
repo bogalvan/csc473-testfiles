@@ -1,0 +1,1 @@
+render ../resources/fresnel3.pov 640 480 -fresnel

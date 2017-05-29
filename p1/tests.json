@@ -1,0 +1,32 @@
+[
+	{ "name": "test1", "type": "text", "required": true },
+	{ "name": "test2", "type": "text", "required": true },
+	{ "name": "test3", "type": "text", "required": true },
+	{ "name": "test4", "type": "text", "required": true },
+	{ "name": "test5", "type": "text", "required": true },
+	{ "name": "test6", "type": "text", "required": true },
+	{ "name": "test7", "type": "text", "required": true },
+	{ "name": "test8", "type": "text", "required": true },
+	{ "name": "test9", "type": "text", "required": true },
+	{ "name": "test10", "type": "text", "required": true },
+	{ "name": "test11", "type": "text", "required": true },
+	{ "name": "test12", "type": "text", "required": true },
+	{ "name": "test13", "type": "text", "required": true },
+	{ "name": "test14", "type": "text", "required": true },
+	{ "name": "test15", "type": "text", "required": true },
+	{
+		"name": "simple",
+		"type": "image",
+		"required": true
+	},
+	{
+		"name": "spheres",
+		"type": "image",
+		"required": true
+	},
+	{
+		"name": "planes",
+		"type": "image",
+		"required": true
+	}
+]

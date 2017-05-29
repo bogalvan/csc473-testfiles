@@ -1,0 +1,44 @@
+[
+	{
+		"name": "test1",
+		"type": "text",
+		"required": true
+	},
+	{
+		"name": "test2",
+		"type": "text",
+		"required": true
+	},
+	{
+		"name": "valentine2",
+		"type": "image",
+		"required": true
+	},
+	{
+		"name": "fresnel1",
+		"type": "image",
+		"required": true
+	},
+	{
+		"name": "fresnel2",
+		"type": "image",
+		"required": true
+	},
+	{
+		"name": "fresnel3",
+		"type": "image",
+		"required": true
+	},
+	{
+		"name": "shiny",
+		"type": "image",
+		"required": true,
+		"timeout": 500
+	},
+	{
+		"name": "simple",
+		"type": "image",
+		"required": true,
+		"timeout": 500
+	}
+]
