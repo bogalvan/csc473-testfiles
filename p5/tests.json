@@ -1,7 +1,7 @@
 [
-	{ "name": "balls2", "type": "image", "required": true, "timeout": 240 },
-	{ "name": "bunny", "type": "image", "required": true, "timeout": 240 },
-	{ "name": "gnarly", "type": "image", "required": true, "timeout": 240 },
+	{ "name": "balls2", "type": "image", "required": true, "timeout": 120 },
+	{ "name": "bunny", "type": "image", "required": true, "timeout": 120 },
+	{ "name": "gnarly", "type": "image", "required": true, "timeout": 120 },
 	{ "name": "gnarly_sm", "type": "image", "required": true, "timeout": 60 },
 	{ "name": "gnarly_slow", "type": "image", "required": true, "timeout": 60 }
 ]
