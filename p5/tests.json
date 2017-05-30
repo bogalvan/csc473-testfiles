@@ -1,5 +1,5 @@
 [
-	{ "name": "balls2", "type": "image", "required": true },
-	{ "name": "bunny", "type": "image", "required": true },
-	{ "name": "gnarly", "type": "image", "required": true }
+	{ "name": "balls2", "type": "image", "required": true, "timeout": 240 },
+	{ "name": "bunny", "type": "image", "required": true, "timeout": 240 },
+	{ "name": "gnarly", "type": "image", "required": true, "timeout": 240 }
 ]

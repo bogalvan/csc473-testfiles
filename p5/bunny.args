@@ -1,1 +1,1 @@
-render ../resources/bunny.pov 640 480 -sds
+render ../resources/bunny.pov 320 240 -sds
