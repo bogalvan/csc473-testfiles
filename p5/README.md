@@ -5,6 +5,16 @@ Input files for [Part 5](http://iondune.github.io/csc473/project/part5) of the [
 
 ## Output Images
 
+### box_nr.pov
+
+![box_nr.pov](box_nr.png)
+
+### checkerbox.pov
+
+**Arguments:** `-fresnel`
+
+![checkerbox.pov](checkerbox.png)
+
 ### balls2.pov
 
 **Arguments:** `-sds`

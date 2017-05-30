@@ -1,4 +1,6 @@
 [
+	{ "name": "box_nr", "type": "image", "required": true, "timeout": 30 },
+	{ "name": "checkerbox", "type": "image", "required": true, "timeout": 240 },
 	{ "name": "balls2", "type": "image", "required": true, "timeout": 240 },
 	{ "name": "bunny", "type": "image", "required": true, "timeout": 240 },
 	{ "name": "gnarly", "type": "image", "required": true, "timeout": 240 },
