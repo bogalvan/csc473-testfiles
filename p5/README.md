@@ -9,6 +9,14 @@ Input files for [Part 5](http://iondune.github.io/csc473/project/part5) of the [
 
 ![box_nr.pov](box_nr.png)
 
+### box2.pov
+
+![box2.pov](box2.png)
+
+### box_refract.pov
+
+![box_refract.pov](box_refract.png)
+
 ### checkerbox.pov
 
 **Arguments:** `-fresnel`
