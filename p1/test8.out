@@ -18,45 +18,45 @@ Light[0]:
 
 Object[0]:
 - Type: Plane
-- Normal: {-1 0 0}
-- Distance: -6
-- Color: {0.2 0.2 0.8}
+- Normal: {-1.0000 0.0000 0.0000}
+- Distance: -6.0000
+- Color: {0.2000 0.2000 0.8000}
 - Material:
-  - Ambient: 0.4
-  - Diffuse: 0.8
+  - Ambient: 0.4000
+  - Diffuse: 0.8000
 
 Object[1]:
 - Type: Plane
-- Normal: {0 1 0}
-- Distance: -6
-- Color: {0.15 0.2 0.8}
+- Normal: {0.0000 1.0000 0.0000}
+- Distance: -6.0000
+- Color: {0.1500 0.2000 0.8000}
 - Material:
-  - Ambient: 0.4
-  - Diffuse: 0.8
+  - Ambient: 0.4000
+  - Diffuse: 0.8000
 
 Object[2]:
 - Type: Plane
-- Normal: {0 0 1}
-- Distance: -6
-- Color: {0.2 0.2 0.8}
+- Normal: {0.0000 0.0000 1.0000}
+- Distance: -6.0000
+- Color: {0.2000 0.2000 0.8000}
 - Material:
-  - Ambient: 0.4
-  - Diffuse: 0.8
+  - Ambient: 0.4000
+  - Diffuse: 0.8000
 
 Object[3]:
 - Type: Plane
-- Normal: {1 0 0}
-- Distance: -5
-- Color: {0.15 0.2 0.8}
+- Normal: {1.0000 0.0000 0.0000}
+- Distance: -5.0000
+- Color: {0.1500 0.2000 0.8000}
 - Material:
-  - Ambient: 0.4
-  - Diffuse: 0.8
+  - Ambient: 0.4000
+  - Diffuse: 0.8000
 
 Object[4]:
 - Type: Sphere
-- Center: {-5 3 0}
-- Radius: 1.1
-- Color: {0.12 0.34 0.56}
+- Center: {-5.0000 3.0000 0.0000}
+- Radius: 1.1000
+- Color: {0.1200 0.3400 0.5600}
 - Material:
-  - Ambient: 0.2
-  - Diffuse: 0.4
+  - Ambient: 0.2000
+  - Diffuse: 0.4000

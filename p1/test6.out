@@ -18,18 +18,18 @@ Light[0]:
 
 Object[0]:
 - Type: Sphere
-- Center: {0 0 0}
-- Radius: 2
-- Color: {1 0 1}
+- Center: {0.0000 0.0000 0.0000}
+- Radius: 2.0000
+- Color: {1.0000 0.0000 1.0000}
 - Material:
-  - Ambient: 0.2
-  - Diffuse: 0.4
+  - Ambient: 0.2000
+  - Diffuse: 0.4000
 
 Object[1]:
 - Type: Plane
-- Normal: {0 1 0}
-- Distance: -4
-- Color: {0.2 0.2 0.8}
+- Normal: {0.0000 1.0000 0.0000}
+- Distance: -4.0000
+- Color: {0.2000 0.2000 0.8000}
 - Material:
-  - Ambient: 0.4
-  - Diffuse: 0.8
+  - Ambient: 0.4000
+  - Diffuse: 0.8000
