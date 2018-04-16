@@ -4,3 +4,4 @@ fresnel2 render -fresnel
 fresnel3 render -fresnel
 shiny render -ss=2
 simple render -ss=3
+beers render
