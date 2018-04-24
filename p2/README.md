@@ -42,3 +42,11 @@ Input files for [Part 2](http://iondune.github.io/csc473/project/part2) of the [
 ### simp_cam3.pov
 
 ![simp_cam3.pov](simp_cam3.png)
+
+### pbr_grid.pov
+
+![pbr_grid.pov](blinn_grid.png)
+
+**Arguments:** `-altbrdf`
+
+![pbr_grid.pov](pbr_grid.png)

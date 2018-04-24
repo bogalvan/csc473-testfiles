@@ -14,5 +14,6 @@
 	{ "name": "simp_cam1", "type": "image", "required": true },
 	{ "name": "simp_cam2", "type": "image", "required": true },
 	{ "name": "simp_cam3", "type": "image", "required": true },
+	{ "name": "blinn_grid", "type": "image", "required": true }
 	{ "name": "pbr_grid", "type": "image", "required": true }
 ]
