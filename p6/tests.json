@@ -1,0 +1,4 @@
+[
+	{ "name": "simple-gi", "type": "image", "required": true, "timeout": 1800 },
+	{ "name": "cornell", "type": "image", "required": true, "timeout": 1800 }
+]

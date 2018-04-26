@@ -1,0 +1,1 @@
+render ../resources/cornell.pov 640 480 -gi
