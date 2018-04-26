@@ -43,3 +43,7 @@ Input files for [Part 4](http://iondune.github.io/csc473/project/part4) of the [
 **Arguments:** `-ss=3`
 
 ![simple.pov](simple.png)
+
+### beers.pov
+
+![beers.pov](beers.png)

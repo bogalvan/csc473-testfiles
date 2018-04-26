@@ -40,5 +40,6 @@
 		"type": "image",
 		"required": true,
 		"timeout": 500
-	}
+	},
+	{ "name": "beers", "type": "image", "required": true }
 ]
