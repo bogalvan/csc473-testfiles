@@ -11,6 +11,8 @@
 	{ "name": "simple", "type": "image", "required": true },
 	{ "name": "spheres", "type": "image", "required": true },
 	{ "name": "planes", "type": "image", "required": true },
+	{ "name": "specular", "type": "image", "required": true },
+	{ "name": "simp_cam0", "type": "image", "required": true },
 	{ "name": "simp_cam1", "type": "image", "required": true },
 	{ "name": "simp_cam2", "type": "image", "required": true },
 	{ "name": "simp_cam3", "type": "image", "required": true },
