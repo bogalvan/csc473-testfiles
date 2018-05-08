@@ -1,1 +1,1 @@
-render ../resources/beers.pov 640 480
+render ../resources/beers.pov 640 480 -beers

@@ -46,4 +46,6 @@ Input files for [Part 4](http://iondune.github.io/csc473/project/part4) of the [
 
 ### beers.pov
 
+**Arguments:** `-beers`
+
 ![beers.pov](beers.png)
