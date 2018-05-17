@@ -1,16 +1,16 @@
-Pixel: [380, 190] Color: (70, 88, 71)
+Pixel: [380, 190] Color: (44, 62, 45)
 ----
   Iteration type: Primary
              Ray: {0.0000 0.0000 14.0000} -> {0.1244 -0.1018 -0.9870}
       Hit Object: (ID #1 - Sphere)
     Intersection: {1.4722 -1.2045 2.3199} at T = 11.8340
           Normal: {0.4907 -0.4015 0.7733}
-     Final Color: {0.2747 0.3445 0.2792}
+     Final Color: {0.1730 0.2428 0.1775}
          Ambient: {0.0500 0.0500 0.0500}
          Diffuse: {0.0000 0.0000 0.0000}
         Specular: {0.0000 0.0000 0.0000}
       Reflection: {0.0000 0.0000 0.0000}
-      Refraction: {0.2247 0.2945 0.2292}
+      Refraction: {0.1230 0.1928 0.1275}
    Contributions: 0.2500 Local, 0.0000 Reflection, 0.7500 Transmission
 ----
   Iteration type: Refraction
@@ -18,9 +18,9 @@ Pixel: [380, 190] Color: (70, 88, 71)
       Hit Object: (ID #1 - Sphere)
     Intersection: {1.1368 -0.9301 -2.6158} at T = 4.9537
           Normal: {0.3789 -0.3100 -0.8719}
-     Final Color: {0.2997 0.3927 0.3057}
+     Final Color: {0.1640 0.2570 0.1700}
          Ambient: {0.0500 0.0500 0.0500}
-         Diffuse: {0.1357 0.1357 0.1357}
+         Diffuse: {0.0000 0.0000 0.0000}
         Specular: {0.0000 0.0000 0.0000}
       Reflection: {0.0000 0.0000 0.0000}
       Refraction: {0.1140 0.2070 0.1200}
