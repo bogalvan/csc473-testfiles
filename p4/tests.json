@@ -15,6 +15,16 @@
 		"required": true
 	},
 	{
+		"name": "transforms1",
+		"type": "image",
+		"required": true
+	},
+	{
+		"name": "solar_system",
+		"type": "image",
+		"required": true
+	},
+	{
 		"name": "fresnel1",
 		"type": "image",
 		"required": true
