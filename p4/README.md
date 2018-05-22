@@ -14,6 +14,14 @@ Input files for [Part 4](http://iondune.github.io/csc473/project/part4) of the [
 
 ![valentine2.pov](valentine2.png)
 
+### transforms1.pov
+
+![transforms1.pov](transforms1.png)
+
+### solar_system.pov
+
+![solar_system.pov](solar_system.png)
+
 ### fresnel1.pov
 
 **Arguments:** `-fresnel`
