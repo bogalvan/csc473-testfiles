@@ -18,6 +18,22 @@ Input files for [Part 4](http://iondune.github.io/csc473/project/part4) of the [
 
 ![transforms1.pov](transforms1.png)
 
+### transforms2.pov
+
+![transforms2.pov](transforms2.png)
+
+### translate.pov
+
+![translate.pov](translate.png)
+
+### scale.pov
+
+![scale.pov](scale.png)
+
+### rotate.pov
+
+![rotate.pov](rotate.png)
+
 ### solar_system.pov
 
 ![solar_system.pov](solar_system.png)

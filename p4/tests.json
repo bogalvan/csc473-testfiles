@@ -19,6 +19,10 @@
 		"type": "image",
 		"required": true
 	},
+	{ "name": "transforms2", "type": "image", "required": false },
+	{ "name": "translate", "type": "image", "required": false },
+	{ "name": "scale", "type": "image", "required": false },
+	{ "name": "rotate", "type": "image", "required": false },
 	{
 		"name": "solar_system",
 		"type": "image",
