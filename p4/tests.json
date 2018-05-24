@@ -26,7 +26,7 @@
 	{
 		"name": "solar_system",
 		"type": "image",
-		"required": true
+		"required": false
 	},
 	{
 		"name": "fresnel1",
