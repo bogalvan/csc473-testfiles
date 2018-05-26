@@ -13,5 +13,6 @@
 	{ "name": "simple_refract", "type": "image", "required": true },
 	{ "name": "refract2", "type": "image", "required": true },
 	{ "name": "refract_refl", "type": "image", "required": true },
-	{ "name": "recurse_simp2", "type": "image", "required": true }
+	{ "name": "recurse_simp2", "type": "image", "required": true },
+	{ "name": "amy", "type": "additional" }
 ]
